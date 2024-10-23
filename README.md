@@ -1,5 +1,6 @@
 # DSRF: Few-Shot PCB Surface Defect Detection via Dynamic Selective Regulation Fusion
-PyTorch implementation for the paper: Few-Shot PCB Surface Defect Detection via Dynamic Selective Regulation Fusion<br>
+PyTorch implementation for the paper: Few-Shot PCB Surface Defect Detection via Dynamic Selective Regulation Fusion 
+![](https://github.com/lydcv/DSRF/raw/main//DSRF.png) 
 Our code is based on [mmfewshot](https://github.com/open-mmlab/mmfewshot).
 ## Requirements
 * python == 3.8.19
